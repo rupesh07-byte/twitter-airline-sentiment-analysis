@@ -44,7 +44,8 @@ The workflow includes **data cleaning, analysis, and visualization using Python*
 ---
 
 ## 📷 Dashboard Preview
-<img width="1326" height="748" alt="dashboard" src="https://github.com/user-attachments/assets/def23f3f-5d8e-411d-bc3b-e0ed9ad4b81c" />
+<img width="1334" height="751" alt="dashboard" src="https://github.com/user-attachments/assets/e3ee724a-edf2-4e37-a8d5-44727e06d7ee" />
+
 
 
 ---
